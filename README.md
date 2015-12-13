@@ -1,3 +1,6 @@
+Run code for plot1, plot2, plot3, and plot4, and a png file will appear in the corresponding subdirectory within the user's 
+R working directory.  Examples of each plot are given in my ExData_Plotting1 branch that was forked.
+
 ## Introduction
 
 This assignment uses data from
